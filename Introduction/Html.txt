@@ -1,0 +1,10 @@
+HTML --> HYPER TEXT MARKUP LANGUAGE
+
+Useful for Websites Development , Software Development , Marketing Professionals , Freelancerc etc.
+
+HTML is a skeleton or base of a Websites
+CSS adds styling and decoration to Websites
+JavaScript adds functionality to Websites
+
+Recommeded Browsers --> Chrome , Firefox
+Recommeded IDEs --> VS Code , Sublime Text
